@@ -8,12 +8,12 @@ print(" 230   |        25        | Caso contrário")
 
 codigo = int(input("\nDigite um código de desconto: "))
 
-if (codigo == 33):
+if codigo == 33:
     valor = valor * 0.90
-elif (codigo == 77):
+elif codigo == 77:
     valor = valor * 0.80
-elif (codigo == 230):
-    if (valor > 100):
+elif codigo == 230:
+    if valor > 100:
         valor = valor * 0.70
     else:
         valor = valor * 0.75
