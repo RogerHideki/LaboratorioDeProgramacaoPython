@@ -110,6 +110,7 @@
       <workItem from="1657501183486" duration="256000" />
       <workItem from="1657501756601" duration="19000" />
       <workItem from="1657501817642" duration="17000" />
+      <workItem from="1657501872594" duration="16000" />
     </task>
     <servers />
   </component>
@@ -118,7 +119,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LaboratorioDeProgramacaoPython$Aula01ExercicioDeFixacao01.coverage" NAME="Aula01ExercicioDeFixacao01 Coverage Results" MODIFIED="1657501763361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula01" />
-    <SUITE FILE_PATH="coverage/LaboratorioDeProgramacaoPython$Aula02ExercicioDeFixacao01.coverage" NAME="Aula02ExercicioDeFixacao01 Coverage Results" MODIFIED="1657501769459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula02" />
+    <SUITE FILE_PATH="coverage/LaboratorioDeProgramacaoPython$Aula02ExercicioDeFixacao01.coverage" NAME="Aula02ExercicioDeFixacao01 Coverage Results" MODIFIED="1657501879042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula02" />
     <SUITE FILE_PATH="coverage/LaboratorioDeProgramacaoPython$ExercicioDeFixacao03.coverage" NAME="Aula01ExercicioDeFixacao03 Coverage Results" MODIFIED="1657501423195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula01" />
     <SUITE FILE_PATH="coverage/LaboratorioDeProgramacaoPython$Aula01ExercicioDeFixacao03.coverage" NAME="Aula01ExercicioDeFixacao03 Coverage Results" MODIFIED="1657501766987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula01" />
     <SUITE FILE_PATH="coverage/LaboratorioDeProgramacaoPython$ExercicioDeFixacao01.coverage" NAME="Aula02ExercicioDeFixacao01 Coverage Results" MODIFIED="1657501427971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula02" />
